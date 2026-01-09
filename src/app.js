@@ -141,9 +141,16 @@ function Pizza({ values }) {
 }
 
 function Footer() {
+  const Dates = new Date();
+  const hours = Dates.getHours();
+  const openHour = 11;
+  const closeHour = 22;
+  const isOpen = hours >= openHour && hours <= closeHour;
   return (
     <>
-      <p>{false ? "we are open Welcome " : "We are closed"}</p>
+      <p style={{ textAlign: "center", fontSize: "20px", marginBlock: 10 }}>
+        {isOpen ? "we are open Welcome " : "We are closed, Shop opens at 11pm"}
+      </p>
     </>
   );
 }
