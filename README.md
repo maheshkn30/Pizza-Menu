@@ -5,7 +5,7 @@ This project focuses on creating a modern UI that showcases the brand’s menu, 
 
 ## 🚀 Live Demo
 
-maheshkn30.github.io/Pizza-Menu/
+https://maheshkn30.github.io/Pizza-Menu/
 
 ## 📌 Features
 
