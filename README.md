@@ -1,27 +1,24 @@
 # Pizza Menu Website 🍕
 
-A responsive static Pizza Menu website built using React. This project focuses on creating a modern UI that showcases the brand’s menu, offers, and overall layout without backend functionality.
+A responsive static Pizza Menu website built using React.  
+This project focuses on creating a modern UI that showcases the brand’s menu, special offers, and overall layout — without backend functionality.
 
-Demo Link
+## 🚀 Live Demo
 
-👉 Add your GitHub Pages / Netlify / Vercel link here
+maheshkn30.github.io/Pizza-Menu/
 
-Features
+## 📌 Features
 
-🍕 Static Pizza Menu themed website
+- 🍕 Static pizza-themed website
+- 🎨 Clean and modern UI
+- ⚛️ Built using reusable React components
+- 🚀 Fast and lightweight (no backend integration)
+- 🧩 Component-based structure for scalability
 
-📱 Fully responsive design
+## 🛠️ Tech Stack
 
-🎨 Clean and modern UI
-
-⚛️ Built using React components
-
-🚀 Fast and lightweight (no backend)
-
-Tech Stack
-
-Front End: React, JavaScript, HTML, CSS
-
-Notes
-
-This is a static frontend project created for learning and practice purposes. No real orders or payments are processed.
+**Front-End:**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
